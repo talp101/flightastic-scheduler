@@ -1,0 +1,15 @@
+{
+  "name": "flightastic-scheduler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./bin/server.js"
+  },
+  "dependencies": {
+    "agenda": "^0.9.0",
+    "config": "^1.25.1",
+    "express": "^4.15.0"
+  }
+}
