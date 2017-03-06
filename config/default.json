@@ -1,5 +1,5 @@
 {
     "port":3000,
     "flightasticServiceUrl": "https://flightastic.herokuapp.com/search_flight",
-    "mongoUrl": "ds119810.mlab.com:19810/agenda"
+    "mongoUrl": "mongodb://admin:admin@ds119810.mlab.com:19810/agenda"
 }
